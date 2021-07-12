@@ -1,3 +1,2 @@
-# EJS_AUTH
-# PASSPORT-LOCAL
 # WITHOUT_PASSWORD
+using jwt with cookie
